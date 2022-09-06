@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Catchy Motivation</string>
+    <string name="catch_1_article">Make sure you are motivated to achieve results</string>
+    <string name="catch_1_desc">It often happens that leaders who are not interested in achieving high results try to motivate the team. It is difficult to inspire an employee if you yourself are reluctant to go towards your goal. So start with yourself.</string>
+    <string name="catch_2_article">Show prospects</string>
+    <string name="catch_2_desc">To work effectively, the team must know what awaits it in the future. Take the time to describe in detail the upcoming goals and how to achieve them. Pay special attention to the development prospects of each employee, to what they will receive as a result.</string>
+    <string name="catch_3_article">Share examples</string>
+    <string name="catch_3_desc">It seems that only success stories can motivate staff. But it\'s not. Talk about both successes and fakapah. So the team will understand that anyone has the right to make a mistake, the main thing is to continue to act.</string>
+    <string name="catch_4_article">Listen to your command</string>
+    <string name="catch_4_desc">Each employee should feel their importance to the company. Accept help from your team, seek advice and listen to it. Show that everyone\'s opinion counts. Then employees will be more willing to take part in solving problems.</string>
+    <string name="catch_5_article">Give people responsibility</string>
+    <string name="catch_5_desc">Each person in the team should have their own area of ​​responsibility, this will increase their personal motivation. So each employee will feel the importance of their work and will perform the task conscientiously.</string>
+
+</resources>
